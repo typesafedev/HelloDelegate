@@ -52,6 +52,10 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+<<<<<<< HEAD
+=======
+**/Properties/launchSettings.json
+>>>>>>> 303c2834753edff428c5eb30a43beefcc4a8527c
 
 # StyleCop
 StyleCopReport.xml
@@ -220,7 +224,7 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
-# Including strong name files can present a security risk
+# Including strong name files can present a security risk 
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
 
@@ -316,7 +320,11 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
+<<<<<<< HEAD
 # Azure Stream Analytics local run output
+=======
+# Azure Stream Analytics local run output 
+>>>>>>> 303c2834753edff428c5eb30a43beefcc4a8527c
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
@@ -325,5 +333,10 @@ ASALocalRun/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
+<<<<<<< HEAD
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
+=======
+# MFractors (Xamarin productivity tool) working folder 
+.mfractor/
+>>>>>>> 303c2834753edff428c5eb30a43beefcc4a8527c
