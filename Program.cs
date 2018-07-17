@@ -11,6 +11,8 @@ namespace HelloDelegate
         static bool IsUpperPred(Predicate<string> p, string input)
         {
             //Comment 2
+            //Comment 3
+            //Comment 4
             return p(input);
         }
 
