@@ -11,6 +11,7 @@ namespace HelloDelegate
         static bool Is(Predicate<string> p, string input)
         {
             //Comment 19 & 20
+
             return p(input);
         }
 
