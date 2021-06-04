@@ -1,0 +1,1 @@
+# To get started, <a href="https://www.clahub.com/agreements/typesafedev/HelloDelegate">sign the Contributor License Agreement</a>.
